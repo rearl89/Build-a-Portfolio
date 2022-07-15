@@ -1,5 +1,9 @@
 .header {background-color: indianred; font-family:cursive;}
+
 h1, h2 {color: white; text-align: center;}
+
 .favorite {text-indent: 10px;}
+
 img {width: 500px; border-radius: 20px; position: relative; left:10px}
+
 .about-me{background-color: aquamarine; text-indent: 10px;}
